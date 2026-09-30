@@ -1,0 +1,6 @@
+{
+  "name": "Color Connect",
+  "description": "Vibrant and addictive 2D color connect puzzle game with 100+ levels across multiple grid sizes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
